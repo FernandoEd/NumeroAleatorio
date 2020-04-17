@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NumeroAleatorio</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="introduza_um_numero_0_10">Introduza um numero (0-10)</string>
+    <string name="tentativas">Tentativas :</string>
+    <string name="numero_de_1_a_10">Numero de 1 a 10</string>
+</resources>
